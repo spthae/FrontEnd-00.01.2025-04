@@ -17,6 +17,9 @@ git merge fuentes/main main
 ### Roberto Pineda
 
 
+
+
+
 ## Alumnos
 
 Joan
@@ -24,3 +27,6 @@ Joan
 Jair
 
 Abdiel 
+
+KATTY ROMERO
+
