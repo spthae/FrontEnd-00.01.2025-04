@@ -18,8 +18,6 @@ git merge fuentes/main main
 
 
 
-
-
 ## Alumnos
 
 Joan
@@ -31,6 +29,4 @@ Abdiel
 KATTY ROMERO
 
 
-
-
-
+VICTOR CHIPANA
