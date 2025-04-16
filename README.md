@@ -17,6 +17,9 @@ git merge fuentes/main main
 ### Roberto Pineda
 
 
+<<<<<<< HEAD
+VICTOR CHIPANA
+=======
 
 
 
@@ -30,3 +33,6 @@ Abdiel
 
 KATTY ROMERO
 
+VICTOR CHIPANA
+
+>>>>>>> fuentes/main
