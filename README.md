@@ -5,6 +5,9 @@ Repositorio del grupo de FrontEnd 2025-04
 ### Roberto Pineda
 
 
+
+
+
 ## Alumnos
 
 Joan
@@ -12,3 +15,6 @@ Joan
 Jair
 
 Abdiel 
+
+KATTY ROMERO
+
