@@ -28,6 +28,8 @@ Abdiel
 
 KATTY ROMERO
 
+Zair 
+
 
 VICTOR CHIPANA
 
