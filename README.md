@@ -33,4 +33,15 @@ VICTOR CHIPANA
 Hans Castillo
 2025 - IDAT
 
+
+Arnold Castillo - Retroalimentacion
+
+
+LUIS ZUÑIGA
+
+
+Alvaro
+
 Raul
+
+Jesus AParicio
