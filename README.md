@@ -1,5 +1,4 @@
 # FrontEnd-00.01.2025-04
-
 Repositorio del grupo de FrontEnd 2025-04
 
 ## La primera vez
@@ -12,8 +11,9 @@ git fetch fuentes
 
 git merge fuentes/main main
 
-## Docente:
 
+
+## Docente:
 ### Roberto Pineda
 
 
@@ -24,15 +24,19 @@ Joan
 
 Jair
 
-Abdiel
+Abdiel 
 
 KATTY ROMERO
+
+Zair 
+
 
 VICTOR CHIPANA
 
 Hans Castillo
 2025 - IDAT
 
+Liz Valle Y
 
 Arnold Castillo - Retroalimentacion
 
@@ -47,4 +51,8 @@ Raul
 Jesus AParicio
 
 
+
 Thaily Puente
+
+
+Milton Cesar
