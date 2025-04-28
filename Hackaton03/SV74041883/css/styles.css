@@ -151,5 +151,5 @@ ul {
     height: 0;
     border-left: 10px solid transparent; /* ancho del triángulo */
     border-right: 10px solid transparent;
-    border-bottom: 15px solid #000; /* color y tamaño del triángulo */
+    border-bottom: 15px solid #000; 
   }
