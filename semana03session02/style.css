@@ -1,28 +1,26 @@
 /* Ejercicio 21 -Cambiar color de fondo de página: - TITULO */ 
 body {
-  background-color: #e0ffff;
-  font-family: "Open Sans", sans-serif;
+  background-color: #e0ffff;/* Color celeste claro */
 }
-/* Ejercicio 22 Usa una clase para cambiar el color de varios elementos-->*/
 
+/* Ejercicio 22 Usa una clase para cambiar el color de varios elementos-->*/
 p {
   color: #a46ae6;
 }
+
+
 /*<!---- Ejercicio 23 Clase para cambiar color:-->*/
-
-
 .destacado {
   color: #ff0000;
 }
 
 /*<!---- Ejercicio 24. Aplica un borde a una imagen-->*/
-
 img {
-  border: 3px solid #000;
+  border: 3px solid #000000;
   padding: 5px;
 }
-/*<!---- Ejercicio 25. Centra un texto usando CSS-->*/
 
+/*<!---- Ejercicio 25. Centra un texto usando CSS-->*/
 .centrado {
   text-align: center;
 }
@@ -42,7 +40,7 @@ h1 {
 }
 
 /*<!---- Ejercicio 29. Usa una regla CSS para cambiar el color de los enlaces al pasar el mouse (hover) -->*/
-a:hrove {
+a:hover {
   color: #00ff00;
   transition: 0.3s;
 }
@@ -53,7 +51,9 @@ ul {
 }
 /*<!---- Ejercicio 31. Usa una fuente de Google Fonts en tu HTML:-->*/
 
-
+body {
+  font-family: 'Roboto', sans-serif;
+}
 
 /*<!---- Ejercicio 32. Cambia el fondo de un div con una imagen-->*/
 .banner {
@@ -75,7 +75,7 @@ ul {
 }
 
 /*<!---- Ejercicio 35. Crea una clase .boton que tenga padding, color, y borde redondeado-->*/
-.Enviar {
+.boton {
   padding: 10px 20px;
   background-color: #007bff;
   color: white;
