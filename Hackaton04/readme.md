@@ -18,6 +18,7 @@ Diseñar y desarrollar una landing page completamente responsive aplicando técn
 
 ### 🔧 Estructura mínima:
 
+
 1. **Header** con logo y menú de navegación  
    👉 Usar `display: flex`   ok
 2. **Hero principal** con una imagen/banner + texto + CTA  
