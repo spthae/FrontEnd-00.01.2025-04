@@ -1,0 +1,23 @@
+/* Estilo Base Mobile */
+body {
+    font-size: 16px;
+    background-color: lightblue;
+}
+
+/* Tablet */
+
+@media ( min-width: 768px){
+    body {
+        font-size: 18px;
+        background-color: lightgreen;
+    }
+}
+
+/* Escritorio */
+
+@media ( min-width: 1024px) {
+    body {
+        font-size:  20px;
+        background-color: coral;
+    }
+}
